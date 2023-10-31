@@ -11,4 +11,12 @@
     border-radius: 20px;
     padding-left: 20px;
 }
+#show{
+    background-color: pink;
+    margin-top: 40px;
+    height: 10vh;
+    width: 500px;
+    padding: 20px;
+    font-size: 20px;
+}
 
